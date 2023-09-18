@@ -1,5 +1,5 @@
 # eQSL
-基于GB/T 33190-2016 《电子文件存储与交换格式版式文档》实现的eQSL
+基于GB/T 33190-2016 《电子文件存储与交换格式版式文档》实现的eQSL方法
 
 # 正在施工中...
 
@@ -7,7 +7,7 @@
 
 
 
-## SM2公钥
+## SM2公钥（测试用）
 ```
 -----BEGIN PUBLIC KEY-----
 MFkwEwYHKoZIzj0CAQYIKoEcz1UBgi0DQgAE4sLuaTJJjpeXidt0NpVC3Apd5Awx
